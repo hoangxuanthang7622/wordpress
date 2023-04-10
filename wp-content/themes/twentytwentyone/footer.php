@@ -74,7 +74,10 @@
 	</footer><!-- #colophon -->
 
 </div><!-- #page -->
-
+<?php
+	// do_action('new_action_hook'); 
+	// zendvn_wp_new_hook();
+?>
 <?php wp_footer(); ?>
 
 </body>
