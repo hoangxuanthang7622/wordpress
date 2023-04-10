@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: filter Action
+Plugin Name: admin-menu
 Plugin URI: http://www.zen.vn
-Description: filter Action
+Description: admin-menu
 Author: ZendVN Group
 Version: 1.0
 Author URI: http://www.zen.vn
